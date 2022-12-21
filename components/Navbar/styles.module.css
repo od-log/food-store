@@ -1,0 +1,7 @@
+.flex{
+  width: 50vw;
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
